@@ -1,4 +1,5 @@
 **Data Visualization using Tableau (Dashboard creation)**
+-- [Dashboard Link](https://public.tableau.com/app/profile/saif.merchant/viz/AirBnBFullProject_16578810581730/Dashboard1?publish=yes)
 
 _Utilizing an Airbnb dataset enriched with three distinct worksheets and a dynamic dashboard interface, our presentation focuses on elucidating several pivotal aspects:_
   
